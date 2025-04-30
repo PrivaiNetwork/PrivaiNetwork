@@ -326,7 +326,7 @@ Users control and monetize their data while receiving personalized recommendatio
 1. **Installation**
 
 ```bash
-git clone https://github.com/PrivAINetwork/privai-network.git
+git clone https://github.com/PrivaiNetwork/PrivaiNetwork.git
 cd privai-network
 npm install
 ```
